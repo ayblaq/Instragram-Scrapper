@@ -1,0 +1,5 @@
+<root>
+    <item name='org.apache.http.client.HttpClient'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
